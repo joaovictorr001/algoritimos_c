@@ -1,2 +1,3 @@
-# algoritimos_c
-fazer um algoritimo_c
+# algoritimos.c
+fazer um algoritimo.
+c
